@@ -1,4 +1,4 @@
-# for-readme #
+# react_hw1_ex9 #
 ![GitHub package.json version](https://img.shields.io/github/package-json/v/HunteRPVP/react_hw1_ex9)
 
 ## Описание проекта ##
