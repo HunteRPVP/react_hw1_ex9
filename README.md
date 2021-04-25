@@ -25,3 +25,19 @@
 
 ## Ссылка на видео о README.md ##
 [![Demo CountPages alpha](https://j.gifs.com/QnYGGl.gif)](https://www.youtube.com/embed/26pHLqNmx3Q)
+
+```plantuml
+@startuml component
+actor client
+node app
+database db
+
+db -> app
+app -> client
+@enduml
+```
+
+|       | field1 | field2 |
+|-------|:------:|:------:|
+| row 1 | cell1  | cell2  |
+| row 2 | cell3  | cell4  |
